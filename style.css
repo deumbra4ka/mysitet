@@ -1,0 +1,30 @@
+body{
+  text-align: center;
+  margin: 0;
+  font-family: "Рубик Моно Один", sans-serif;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE29PVVrs9JgrSLMbGfYeiH55YKgQ4uUwsdQ&s);
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+wrq-fgck-bte
+nav{
+  display: flex;
+  justify-content: space-around ;
+}
+
+nav a{
+  text-decoration: none;
+  background-color: magenta;
+  color: black;
+  border: 2px solid black;
+  padding: 10px 20px;
+  border-radius: 15px;
+}
+header{
+  background-color: aquamarine;
+  padding: 20px;
+}
+.fff{
+display: flex;
+justify-content: space-around;
+}
