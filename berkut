@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Банда BERKUTY - GTA 5</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #2a2a2a;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .content {
+            padding: 20px;
+        }
+        .nicknames {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            margin-top: 30px;
+        }
+        .nicknames ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .nicknames li {
+            display: inline-block;
+            margin: 5px;
+            font-weight: bold;
+        }
+        .nicknames li a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        .nicknames li a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Банда BERKUTY - Majestic RolePlay-New york</h1>
+    <p>Добро пожаловать на официальный сайт банды BERKUTY в GTA 5!</p>
+</header>
+
+<div class="content">
+    <h2>О банде</h2>
+    <p>Банда BERKUTY - это мощная и сплоченная группа игроков, которые всегда стоят друг за друга. Мы гордимся тем, что являемся частью этой невероятной команды, и готовы всегда сражаться за наши цели.</p>
+    
+    <h3>Наши достижения:</h3>
+    <ul>
+        <li></li>
+        <li>Захват ключевых территорий в игре</li>
+        <li>Сложнейшие миссии с минимальными потерями</li>
+    </ul>
+</div>
+
+<div class="nicknames">
+    <h3>Самые активные участники:</h3>
+    <ul>
+        <li><a href="#">Arsik</a></li>
+        <li><a href="#">Tommy</a></li>
+        <li><a href="#">Gusa</a></li>
+        <li><a href="#">Katana</a></li>
+        <li><a href="#">Egori</a></li>
+        <li><a href="#">Kenych</a></li>
+        <li><a href="#">sozon</a></li>
+        <li><a href="#">Vampir</a></li>
+        <li><a href="#">Ace</a></li>
+        <li><a href="#">Alik</a></li>
+        <li><a href="#">Juzo</a></li>
+        <li><a href="#">Vas</a></li>
+        <li><a href="#">Vitia</a></li>
+        <li><a href="#">NArmik</a></li>
+        <li><a href="#">soba</a></li>
+        <li><a href="#">Lucik</a></li>
+        <li><a href="#">Flora</a></li>
+        <li><a href="#">Mamura</a></li>
+        <li><a href="#">Haba</a></li>
+        <li><a href="#">John</a></li>
+        <li><a href="#">dan</a></li>
+        <li><a href="#">nik</a></li>
+        <li><a href="#">HIGHT</a></li>
+        <li><a href="#">osjen</a></li>
+        <li><a href="#">Satek</a></li>
+        <li><a href="#">Emily</a></li>
+        <li><a href="#">Fantik</a></li>
+        <li><a href="#">diego</a></li>
+        <li><a href="#">diego 2</a></li>
+        <li><a href="#">Tema</a></li>
+        <li><a href="#">Marina</a></li>
+        <li><a href="#">smurf</a></li>
+        <li><a href="#">Hasi</a></li>
+        <li><a href="#">icy</a></li>
+    </ul>
+</div>
+
+</body>
+</html>
